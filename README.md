@@ -10,7 +10,7 @@ Some things I struggled to accomplish with the project:
 
 - Creating a fade in and out of the text with CSS and JS
 
-Some things that I enjoyed about the project:
+Some things that I enjoyed about the project: 
 
 - Using CSS to make a fun user experience
 
